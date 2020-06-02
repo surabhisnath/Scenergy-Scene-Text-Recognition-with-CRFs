@@ -13,3 +13,8 @@ The following models were compared:
 - DL model with Nonlinear fully-connected CRF and Positional Weighting
 
 Refer to Scenergy_Slides.pdf and Scenergy_Report.pdf for further details of the work and the obtained results.
+
+Project done by:
+
+Surabhi S. Nath (surabhi16271@iiitd.ac.in)
+Pranav Goyal (pranav17078@iiitd.ac.in)
