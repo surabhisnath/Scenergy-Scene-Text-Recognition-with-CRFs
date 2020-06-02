@@ -16,6 +16,5 @@ Refer to Scenergy_Slides.pdf and Scenergy_Report.pdf for further details of the 
 
 Project done by:
 
-Surabhi S. Nath (surabhi16271@iiitd.ac.in)
-
-Pranav Goyal (pranav17078@iiitd.ac.in)
+- Surabhi S. Nath (surabhi16271@iiitd.ac.in)
+- Pranav Goyal (pranav17078@iiitd.ac.in)
