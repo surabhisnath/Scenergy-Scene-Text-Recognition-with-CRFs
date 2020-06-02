@@ -1,0 +1,8 @@
+numpy
+json
+pandas
+pickle
+ast
+photonics
+tqdm
+matplotlib
