@@ -6,3 +6,10 @@ The model is as given below:
 
 ![Architecture](https://github.com/surabhisnath/Scenergy-Scene-Text-Recognition-with-CRFs/blob/master/model.png)
 
+The following models were compared:
+- Only DL model
+- DL model with Linear CRF
+- DL model with Nonlinear fully-connected CRF
+- DL model with Nonlinear fully-connected CRF and Positional Weighting
+
+Refer to Scenergy_Slides.pdf and Scenergy_Report.pdf for further details of the work and the obtained results.
